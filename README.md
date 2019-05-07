@@ -4,7 +4,7 @@ Code challenge for scraping urls recursively and outputting discovered links.
 ## Installation
 From project root, run:
 ```
-node install
+npm install
 ```
 
 ## Usage
